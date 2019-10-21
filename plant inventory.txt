@@ -1,0 +1,10 @@
+Hydrangea, 8.99, 750
+Azaleas, 6.99, 500
+Philodendron, 8.99, 45
+Plumbago, 3.99, 100
+Loriope 'Emerald Goddess', 2.99, 1000
+Loriope 'Royal Purple', 2.99, 750
+Aztec Grass, 3.99, 750
+Camellia 'Northern Lights', 14.99, 25
+Windmill Palm, 12.99, 35
+Juniper 'Blue Point', 6.99, 55
