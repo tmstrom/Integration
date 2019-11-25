@@ -1,5 +1,5 @@
-#Tyler Strom
-#Plant Inventory Program
+"""Plant Inventory Program"""
+__author__= "Tyler Strom"
 
 file = open("plant inventory.txt", 'r+')
 lines = file.readlines()
